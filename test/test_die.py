@@ -1,7 +1,7 @@
 import sys
 sys.path.append('D:/python/python_project_Data visualization')
 
-from Plotly.die import Die
+from die.die import Die
 
 def test_default_die_sides():
     die = Die()

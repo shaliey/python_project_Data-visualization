@@ -1,7 +1,7 @@
 import pytest
 import sys
 sys.path.append('D:/python/python_project_Data visualization')
-from Plotly.die import Die
+from die.die import Die
 import plotly.express as px
 from io import StringIO
 
